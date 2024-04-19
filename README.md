@@ -1,6 +1,6 @@
 <h2>Hey there! 👋</h2>
 
-[![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/laxmena?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/Giselle.svg?style=social&label=Follow)](https://github.com/GiselleG44?tab=followers)
 
 I'm Giselle Gonzalez! 
 - <i>Currently:</i>  CS Student at University of Illinois at Chicago. 
