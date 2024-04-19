@@ -1,5 +1,8 @@
 ### Hi there 👋, I'm Giselle Gonzalez
-
+ • I’m currently learning ...
+ • Ask me about anything! I love having engaging conversations and exploring new topics together.
+ • How to reach me: gigonz44@gmail.com www.linkedin.com/in/giselle-gonzalez-564273236
+ 
 <!--
 **GiselleG44/GiselleG44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
