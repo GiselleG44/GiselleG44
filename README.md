@@ -5,7 +5,7 @@
 I'm Giselle Gonzalez! 
 - <i>Currently:</i>  CS Student at University of Illinois at Chicago. 
 
-<h2>💻 I'm Currently workng on</h2>
+<h2>💻 I'm Currently working on</h2>
 
 - On improving my Html and Javascript skills.
 
