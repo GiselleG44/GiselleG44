@@ -7,7 +7,7 @@ I'm Giselle Gonzalez!
 
 <h2>💻 I'm Currently working on</h2>
 
-- On improving my Html and Javascript skills.
+- On improving my HTML and Javascript skills.
 
 <h2>⚡ About Giselle:</h2>
 
