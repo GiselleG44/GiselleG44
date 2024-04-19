@@ -13,11 +13,11 @@ I'm Giselle Gonzalez!
 
 I'm a student living in Chicago, IL. Outside Tech, I love to paint, enjoy music and explore nature outdoors. If you are around Chicago, drop an email and let's catch up over Coffee!
  
-- Know more about me: [About Laxmena](https://giselleg44.github.io/My-Portfolio/)
+- Know more about me: [About Giselle](https://giselleg44.github.io/My-Portfolio/)
 
 <h2>📫 How to reach me:</h2>
 
-<a href="mailto:ConnectWith@lGiselle.com">![ConnectWith@Giselle.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="www.linkedin.com/in/giselle-gonzalez-564273236">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:ConnectWith@lGiselle.com">![ConnectWith@Giselle.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/giselle-gonzalez-564273236">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 <!--
 **GiselleG44/GiselleG44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
