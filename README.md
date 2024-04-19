@@ -11,7 +11,7 @@ I'm Giselle Gonzalez!
 
 <h2>⚡ About Giselle:</h2>
 
-I'm a student living in Chicago, IL. Outside Tech, I love to paint, enjoy music and explore nature outdoors. If you are around Chicago, drop an email and let's catch up over Coffee!
+I'm a student living in Chicago, IL. Outside school, I love to paint, enjoy music and explore nature outdoors. If you are around Chicago, drop an email and let's catch up over Coffee!
  
 - Know more about me: [About Giselle](https://giselleg44.github.io/My-Portfolio/)
 
